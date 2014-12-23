@@ -1,2 +1,5 @@
-3d_printer
-==========
+# 3d_printer
+
+## Contributors
+Henrik Sundset
+Rickard Dybeck
